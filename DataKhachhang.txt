@@ -1,0 +1,249 @@
+STT|Tên khách hàng|Giá dự tính|SĐT|Diện tích (m²)|Tầng|Mặt tiền|Phân khúc|Khu vực 
+1|A Tapy|19 Tỷ|0934425200|104m²|3|TRUE|15-20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+2|Minh Triệu|1,9 Tỷ|0333097948|20m²|2|FALSE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+3|Đàm Thanh Nga|2,5 Tỷ|0933581139|38 m²|3|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+4|Vu Nam|6,8 Tỷ|0934 630 525|58m²|4|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+5|Hà Thị Hải Duyên|5,1 Tỷ|0393918278|40m²|4|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+6|Huỳnh Thanh Sang|9,9 Tỷ|0909305015|80m²|3|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+7|Nguyễn Tung|2 Tỷ|0906812584|22m²|2|FALSE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+8|Trang Hữu|8 Tỷ|0905507694|52m²|4|FALSE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+9|Mr. Vinh|12 Tỷ|0888375026|100m²|3|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+10|Anh Tuấn|9 Tỷ||82m²|3|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+11|Ng Khánh Duy|1,2 Tỷ|0862197484|18m²|2|FALSE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+12|Cao Thùy Trang|5 Tỷ|0903669545|60m²|2|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+13|Hoàng Long|6,2 Tỷ|0369442539|62m²|3|FALSE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+14|Đồng Minh Khoa|4,8 Tỷ|0385416207|45m²|2|TRUE|3-6 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+16|Trần Đại Sỹ|6 Tỷ|0905763700|62m²|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+17|Anh Dũng|5,2 Tỷ|09089359185|32m²|2|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+18|Quang Sáng|2 Tỷ|0562449325|18m²|2|FALSE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+19|Huỳnh Hữu Nghĩa|4,8 Tỷ|0928551438|m²|3|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+20|Công Ty Nam Hải|12 Tỷ|028446587|20m²|4|TRUE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+21|Hồ Quỳnh Trang|5,6 Tỷ|0903412965|32m²|3|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+22|Chị Hóa|2,3 Tỷ|0826419335|24m²|2|TRUE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+23|Hòa|5,1 Tỷ|0936224195|40m²|3|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+24|Anh Hải|4,8 Tỷ|0862496336|32m²|2|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+25|Nguyễn Đắc Tâm|5,6 Tỷ|0566336220|41m²|3|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+26|Hoàng Thanh Trâm|2 Tỷ|0399435042|22m²|2|FALSE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+27|Nguyễn Thị Xuân Ngọc|12 Tỷ|0356865972|53m²|4|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+28|Chị Thùy|2,3 Tỷ|0829516439|30m²|3|FALSE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+29|Thành Quân|4,3 Tỷ|0903661153|42m²|3|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+30|Chị Uyên|8,7 Tỷ|0962498336|62m²|3|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+31|Huyền Trâm|5 Tỷ|0268446526|32m²|3|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+32|Nguyễn Hoàng Nhất Duy|5,3 Tỷ|0903923117|40m²|3|FALSE|3-6 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+33|Chị My|2,7 Tỷ|0826119697|28m²|2|TRUE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+34|Hoàng Anh|18 Tỷ|028469352|80m²|4|TRUE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+35|Công Ty TNHH Faster|30 Tỷ|028284652|120m²|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+36|Chị Thùy Trang|2,9 Tỷ|0903647593|27m²|2|TRUE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+37|Công Ty TNHH Dương Thành Long|12 Tỷ|"0776613250"|80m²|4|TRUE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+38|Cao Tấn Phát|5,2 Tỷ|0903546887|35m²|3|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+39|Chị Hòa|2,8 Tỷ|038546175|26m²|2|FALSE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+40|Cô Ngọc Anh|2,1 Tỷ|0826169347|24m²|2|FALSE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+41|Phạm Thị Trúc Lam|6 Tỷ|0963736364|48m²|3|FALSE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+42|Anh Tích|5,9 Tỷ|0364869731|40m²|3|TRUE|3-6 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+43|Công Ty BHXH Dai-chi|6,1 Tỷ|0286943421|52m²|4|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+44|Anh Huỳnh Hiếu|5 Tỷ |0903567559|35m²|3|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+45|Cô Hằng|8 Tỷ|0903823499|60m²|3|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+46|Nguyễn Ánh|2,5 Tỷ|0599367995|25m²|2|TRUE|< 3 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+47|Tống Hoàng Minh|6,5 Tỷ|0826598663|40m²|3|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+48|Triệu Quang Sáng|4,6 Tỷ|0563158754|30m²|2|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+49|Công Ty Ánh Sao|21 Tỷ|0286869644|120m²|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+50|Anh Phước|12 Tỷ|0399435042|80m²|4|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+51|Tổng Hoài Dân|8 Tỷ|0903951173|70m2|3|FALSE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+52|Nguyễn Minh Đại|5 Tỷ|0908265869|40m2|2|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+53|Anh Nam|24 Tỷ|0976398123|130m2|2|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+54|Anh Bình|6,3 Tỷ|0984398910|50m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+55|Jimmy Wong|8 Tỷ|0908019278|65m2|2|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+56|Nguyễn Trinh Hiền|2 Tỷ|0908485656|30m2|2|FALSE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+57|Hà Bích Thân|14 Tỷ|0913807772|95m2|3|FALSE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+58|Phạm Ngọc Sáu|2,5 Tỷ|0909091560|35m2|2|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+59|Huỳnh Tuyết Hương|4 Tỷ|0903904818|40m2|3|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+60|Nguyễn Ngọc Nữ|6 Tỷ|0903915930|35m2|3|TRUE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+61|Anh Khoa|1,5 Tỷ|0958870145|20m2|1|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+62|Đoàn Xuân Mai|3 Tỷ|0908439643|30m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+63|Jiang Li Chia|7 Tỷ|0903908683|45m2|2|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+64|Trịnh Tố Loan|4 Tỷ|0907495016|25m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+65|Bùi Vũ Phương Thanh|2 Tỷ|0903847836|25m2|1|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+66|Nguyễn Thị Xuân Hồng|3 Tỷ|0903998032|20m2|1|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+67|Nguyễn Chí Trung|11 Tỷ|0903809536|50m2|3|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+68|Lý Á Pẩu|180 Tỷ|0903944383|360m2|2|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+69|Võ Mỹ Hương|2,5 Tỷ|0908393689|20m2|1|TRUE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+70|Nguyễn Thuận Minh Thư|5 Tỷ|0918463817|25m2|2|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+71|Văn Hữu Thành|1,2 Tỷ|0903708211|15m2|1|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+72|Lý Ngọc Thắng|3 Tỷ|0903606909|25m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+73|Dương Đức Hòa|8 Tỷ|0903936484|40m2|2|TRUE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+74|Tôn Thạnh Nghĩa|9 Tỷ|0903713857|35m2|3|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+75|Trần Ngọc Minh|5 Tỷ|0903657228|25m2|3|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+76|Nguyễn Vũ Nhân|3 Tỷ|0903936542|20m2|3|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+77|Huỳnh Kim Hải|12 Tỷ|0903934011|40m2|3|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+78|Lê Lộc|4 Tỷ|0903927936|25m2|2|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+79|Nguyễn Đình Thi|6 Tỷ|0903701531|30m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+80|Nguyễn Tuấn Anh|2 Tỷ|0983036110|30m2|1|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+81|Nguyễn Thiên Nghĩa|8 Tỷ|0913907697|40m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+82|Anh Nhân|15 Tỷ|0976398111|50m2|3|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+83|Nguyễn Minh Hải|5,5 Tỷ|0983550095|30m2|1|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+84|Đoàn Trí Quang|3 Tỷ|0903977814|25m2|2|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+85|Huỳnh Minh Đức|1 Tỷ|0903889477|15m2|1||< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+86|Nguyễn Hiếu Đức|9 Tỷ|0903945455|35m2|2|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+87|Phan Bảo Huân|4 Tỷ|0973850042|25m2|1|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+88|Nguyễn Viết Thanh|2,6 Tỷ|0903742317|18m2|1|TRUE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+89|Nguyễn Thị Quỳnh Anh|4 Tỷ|0913928109|30m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+90|Võ Thị Ngọc Thu|2 Tỷ|0908188009|25m2|1|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+91|Hàn Anh Thắng|6 Tỷ|0907611109|40m2|1|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+92|Nguyễn Gia Khánh|9 Tỷ|0908019363|35m2|2|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+93|Vũ Thị Lệ Hiền|3 Tỷ|0907991368|20m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+94|Lê Trường Bảo|20 Tỷ|0908026464|40m2|5|FALSE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+95|Huỳnh Văn Đức|8 Tỷ|0913914127|25m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+96|Vũ Nhật Minh|14 Tỷ|0903422882|30m2|5|FALSE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+97|Trần Anh Tuấn|4 Tỷ|0903759560|20m2|3|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+98|Phạm Thị Phương Dung|9 Tỷ|0903810965|40m2|1|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+99|Nguyễn Diệp Anh|2 Tỷ|0918425093|20m2|2|FALSE|< 3 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+100|Phan Thị Thu|1,6 Tỷ|0983999936|25m2|1|FALSE|< 3 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+101|Thanh Thanh|43 Tỷ|0705971557|40m2|2|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+102|Nguyễn Đức Hoàng|22 Tỷ|0347936342|55m2|4|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+103|Thuỳ Lê|12 Tỷ|0974588701|28m2|1|FALSE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+104|Lê Thuận Nghĩa|58 Tỷ|0986677588|48m2|3|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+105|Ngạt|37 Tỷ|0787803691|32m2|5|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+106|Nhung|8 Tỷ|0963289789|38m2|1|FALSE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+107|Vũ Thị Yến Nhi|50 Tỷ|0963095693|58m2|3|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+108|Nguyễn Thi Thanh Tuyền|18 Tỷ|0337451563|27m2|5|TRUE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+109|Nguyen Đức Hậu|31 Tỷ|0934821907|50m2|2|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+110|Nguyên Thi Hiền|55 Tỷ|0363131299|35m2|4|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+111|Het Xoa|7 Tỷ|0917235164|45m2|1|FALSE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+112|Sáu Bé Sáu|27 Tỷ|0868895590|30m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+113|Loc Kim Phung|48 Tỷ|0962174244|52m2|3|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+114|Lương Thị Ngọc Hân|15 Tỷ|0372807230|26m2|2|TRUE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+115|Ông Phạm Tô Như|36 Tỷ|0905044539|42m2|4|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+116|Ngo Thi Kim Tuyen|10 Tỷ|0907152901|36m2|1|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+117|Sư Phước|53 Tỷ|0967872599|57m2|5|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+118|Nguyễn Thị Mai Anh|25 Tỷ|0374868488|29m2|3|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+119|Chị Phương|40 Tỷ|0327660729|49m2|2|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+120|Như Ý|11 Tỷ|0949318829|31m2|4|FALSE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+121|Hà Thảo Ngọc|59 Tỷ|0393080296|54m2|1|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+122|Lục Xuân Bảng|20 Tỷ|0358009240|25m2|5|FALSE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+123|Uyen Nguyen|45 Tỷ|0966162021|59m2|3|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+124|Văn Tú Hồng|6 Tỷ|0984041505|39m2|2|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+125|Gia Thị Đông Tuyết|32 Tỷ|0931977915|47m2|4|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+126|Trinh Nguyen|14 Tỷ|0799037123|33m2|1|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+127|Hiền|51 Tỷ|0906 954 618|56m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+128|Trần Lài|29 Tỷ|0865421458|37m2|3|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+129|Nguyễn Thị Hiền|9 Tỷ|0965230921|60m2|2|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+130|Lê Thị Lắm|56 Tỷ|0339156673|44m2|4|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+131|Đinh Thị Loan|26 Tỷ|0933361513|28m2|1|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+132|Nguyễn Thị Cẩm Lợi|41 Tỷ|0373676002|55m2|5|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+133|Hoàng Anh|16 Tỷ|0852676319|41m2|3|FALSE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+134|Trần Quốc Huỳnh|35 Tỷ|0372975161|30m2|2|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+135|Chi Hong Hanh|54 Tỷ|0945245440|51m2|4|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+136|Mai Thi Hiếu|13 Tỷ|0334812848|34m2|1|FALSE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+137|Nguyễn Văn Chức|47 Tỷ|0388729897|46m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+138|Trần Văn Tốt|23 Tỷ|0387761645|27m2|3|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+139|Nguyễn Thị Thảo|38 Tỷ|0818675452|53m2|2|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+140|Ngoc Hoa|19 Tỷ|0787852866|37m2|4|FALSE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+141|Nguyễn Thị Viết|52 Tỷ|0983023960|25m2|2|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+142|Le Chi Linh|30 Tỷ|0388705894|58m2|5|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+143|Cô Giang|49 Tỷ|0967203487|32m2|3|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+144|Lưu Hoàng Hữu|17 Tỷ|0936215767|48m2|2|FALSE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+145|Lâm Phạm|42 Tỷ|0933735490|29m2|4|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+146|Truong Thi Kia|5 Tỷ|0368268218|39m2|1|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+147|Hồ Thị Kim Loan|60 Tỷ|0367949496|50m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+148|Vo Thị Mỹ Xuyên|21 Tỷ|0945523600|26m2|3|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+149|Bùi Quang Hồi|39 Tỷ|0354099949|43m2|2|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+150|Đăng Thị Chung|28 Tỷ|0396687281|35m2|4|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+151|Anh Thái|57 Tỷ|0937949207|57m2|1|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+152|Trần Văn Mẫu|24 Tỷ|0983996980|31m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+153|Phạm Thị Hiền|44 Tỷ|0969988619|54m2|3|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+154|Trần Văn Phương|33 Tỷ|0355115906|38m2|2|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+155|Nguyễn Ngọc Diệp Tuyền|46 Tỷ|0985783578|45m2|4|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+156|Cam Văn Chì|34 Tỷ|0939300795|33m2|1|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+157|Nguyễn Thị Chế|59 Tỷ|0932226331|52m2|5|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+158|Nguyễn Minh|9 Tỷ|0979379314|44m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+159|Đỗ Thì Hài|55 Tỷ|0357244239|36m2|2|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+160|Nguyễn Thị Thuyết|12 Tỷ|0333306308|59m2|4|FALSE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+161|Nguyễn Thị Nga -Nguyễn Văn Khánh|41 Tỷ|0909490079|42m2|1|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+162|Lê Thị Thùy Linh|18 Tỷ|0388316231|56m2|5|TRUE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+163|Qyunh Oanh|47 Tỷ|0978561191|40m2|3|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+164|Trương Thị Nga|30 Tỷ|0859013573|47m2|2|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+165|Thùy Thùy|58 Tỷ|0946685439|25m2|4|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+166|Nguyễn Thi Hoàn|13 Tỷ|0948466808|60m2|1|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+167|Nguyễn Thị Mai Chi|36 Tỷ|0962963372|28m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+168|Trần Thị Bạch Giàu|27 Tỷ|0933354675|53m2|3|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+169|Cẩm Vàng|56 Tỷ|0918029144|37m2|2|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+170|Nguyễn Văn Vũ|24 Tỷ|0333193456|51m2|4|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+171|Phan Thanh Lâm|42 Tỷ|0375296323|30m2|1|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+172|Ngo Thi Minh|8 Tỷ|0909 913900|55m2|5|TRUE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+173|Nguyen Linh Chi|39 Tỷ|0968360918|34m2|3|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+174|Ánh Ngọc|14 Tỷ|0397083178|49m2|2|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+175|Hoang Thi Chi|49 Tỷ|0933708299|44m2|4|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+176|Hồng Yến|31 Tỷ|0936943724|26m2|1|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+177|Nguyễn Văn Tân|16 Tỷ|0919999319|38m2|5|FALSE|15-20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+178|Cô Hồng|54 Tỷ|0947715172|58m2|3|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+179|Tran Xuan|23 Tỷ|0938443749|41m2|2|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+180|Nguyễn Út|38 Tỷ|0388990365|33m2|4|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+181|Ngọc Thảo|22 Tỷ|0939268545|46m2|1|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+182|Nguyễn Thị Loan|53 Tỷ|0936394999|27m2|5|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+183|Lê Đức Dung|28 Tỷ|0979161276|50m2|3|TRUE|> 20 Tỷ|Thủ Đức TP. Hồ Chí Minh
+184|Hong Le|15 Tỷ|0962736127|35m2|2|FALSE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+185|Pham Duy Tung|35 Tỷ|0945706730|43m2|4|FALSE|> 20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+186|Nguyễn Thị Minh Thư|50 Tỷ|0336522325|29m2|1|TRUE|> 20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+187|Hong Nguyen|7 Tỷ|0933482814|54m2|5|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+188|Nguyen Thi Tuyêt Minh|43 Tỷ|0948299252|39m2|3|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+189|Hoàng Đình Phương|19 Tỷ|0974656480|60m2|2|FALSE|15-20 Tỷ|Thủ Đức TP. Hồ Chí Minh
+190|Nguyễn Mai Thảo|52 Tỷ|0376661543|32m2|4|FALSE|> 20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+191|Hà Minh|26 Tỷ|0826039327|45m2|1|FALSE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+192|Nguyễn Thị Trà Giang|60 Tỷ|0939351059|57m2|5|TRUE|> 20 Tỷ|Thủ Đức TP. Hồ Chí Minh
+193|Gnouth|10 Tỷ|0375544457|31m2|3|FALSE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+194|Phạm Thị Thu Hiền|45 Tỷ|0327744044|52m2|2|FALSE|> 20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+195|Nguyễn Hoàng Ý|29 Tỷ|0917270107|36m2|4|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+196|Nguyễn Kim Chi|37 Tỷ|0973916917|59m2|1|FALSE|> 20 Tỷ|Thủ Đức TP. Hồ Chí Minh
+197|Minh Phúc Nguyễn|20 Tỷ|0964803189|42m2|5|TRUE|> 20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+198|Hồnghậu Nguyenthi|51 Tỷ|0946355884|25m2|3|TRUE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+199|Loan Le|11 Tỷ|0949758678|48m2|2|TRUE|9-15 Tỷ|Thủ Đức TP. Hồ Chí Minh
+201|Châu Thành Đạt|12 Tỷ|0762497744|50m2|3|TRUE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+202|Lê Minh|7,3 Tỷ|0859931110|35m2|2|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+203|Trần Tấn Trường|4,5 Tỷ|0354040828|18.5m2|2|TRUE|3-6 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+204|Hoàng Thị Ngoan|6.75 Tỷ|0368076054|35m2|4|FALSE|6-9 Tỷ|Thủ Đức TP. Hồ Chí Minh
+205|Nguyễn Văn Tưởng|8 Tỷ|0395484775|36m2|4|TRUE|6-9 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+206|Đoàn Thị Anh Thư|9.7 Tỷ|0975545730|30m2|3|FALSE|9-15 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+207|Nguyễn Thị Yên|9.5 Tỷ|0982138456|27m2|2|FALSE|9-15 Tỷ|Thủ Đức TP. Hồ Chí Minh
+208|Nguyễn Thu Phuong|13 Tỷ|0938133787|52m2|4|TRUE|15-20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+209|Hải Lê|8.6 Tỷ|0932949009|58m2|3|TRUE|6-9 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+210|Pham Huynh Trang|8.6 Tỷ|0398224026|47.5m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+211|Khánh|5.65 Tỷ|0915592421|52.5m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+212|Lê Thi Nhung|7.5 Tỷ|0941537579|36m2|2|TRUE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+213|Lâm Hải Yến|6.99 Tỷ|0378 924 846|30m2|3|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+214|Phạm Mạnh Trường|5.5 Tỷ|0916226767|57.4m2|2|TRUE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+215|Lương Thi Lê|3.1 Tỷ|0762829009|40m2|1|FALSE|3-6 Tỷ|Thủ Đức TP. Hồ Chí Minh
+216|Ngạt|7.2 Tỷ|0385710894|46m2|3|TRUE|6-9 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+217|Võ Văn Đời|7.4 Tỷ|0773354518|45m2|2|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+218|Nguyễn Thị Trà Giang|7.5 Tỷ|0967267576|68m2|2|FALSE|6-9 Tỷ|Thủ Đức TP. Hồ Chí Minh
+219|Le Hông Đăng|8.5 Tỷ|0367597445|44m2|3|FALSE|6-9 Tỷ|Thủ Đức TP. Hồ Chí Minh
+220|Lê Liêu|6.15 Tỷ|0382058935|24m2|4|TRUE|6-9 Tỷ|Tân Phú, TP. Hồ Chí Minh
+221|Nguyễn Thị Thanh|5.8 Tỷ|037 2205288|42m2|3|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+222|Vũ Thị Trề|8.3 Tỷ|0793558838|34m2|2|FALSE|6-9 Tỷ|Bình Tân TP. Hồ Chí Minh
+223|Bình An|9.3 Tỷ|0921676960|52m2|3|FALSE|9-15 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+224|Tien Viet|6.75 Tỷ|0386499012|19m2|2|TRUE|6-9 Tỷ|Thủ Đức TP. Hồ Chí Minh
+225|Phạm Ngat|14 Tỷ|0857006079|26m2|3|TRUE|9-15 Tỷ|Bình Tân TP. Hồ Chí Minh
+226|Chu Thi Tâm|5,5 Tỷ|0964658524|42m2|2|FALSE|6-9 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+227|Duyên|2,8 Tỷ|0925011888|12m2|3|FALSE|< 3 Tỷ|Bình Tân TP. Hồ Chí Minh
+228|Chị Hòa|5,1 Tỷ|0933465044|21m2|2|TRUE|3-6 Tỷ|Thủ Đức TP. Hồ Chí Minh
+229|Lý Vạn Linh|4,9 Tỷ|0902833976|12m2|2|FALSE|3-6 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+230|Nguyễn Thị Mùi|5,2 Tỷ|0835985843|11m2|1|TRUE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+231|Bùi Thị Loan|6.75 Tỷ|0918344442|9m2|1|FALSE|6-9 Tỷ|Bình Tân TP. Hồ Chí Minh
+232|Lê Viêt Khái|8 Tỷ|0372866830|23m2|3|FALSE|6-9 Tỷ|Thủ Đức TP. Hồ Chí Minh
+233|Nguyen Linh|9.7 Tỷ|0798284999|29m2|3|TRUE|9-15 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+234|Nguyễn Thị Giàu|9.5 Tỷ|0962285357|17m2|1|TRUE|9-15 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+235|Lê Thị Rép|13 Tỷ|0586809295|18m2|2|TRUE|9-15 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+236|Thúy Quyên|8.6 Tỷ|0985722682|19m2|1|FALSE|6-9 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+237|Dinh Thi Ha|12.6 Tỷ|0976535343|14m2|2|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+238|Lê Thị Bích Vân|5.65 Tỷ|0979279080|14m2|1|FALSE|3-6 Tỷ|Thủ Đức TP. Hồ Chí Minh
+239|Nhà Thanh Định|6.5 Tỷ|0348389696|13m2|1|FALSE|6-9 Tỷ|Bình Tân TP. Hồ Chí Minh
+240|Nguyễn Văn Sác|6.99 Tỷ|0763553884|20m2|2|TRUE|6-9 Tỷ|Bình Tân TP. Hồ Chí Minh
+241|Phan Thị Minh Thuý|5.5 Tỷ|0976041661|20m2|1|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+242|Võ Thị Bích Ngân|3.5 Tỷ|0378628410|21m2|1|FALSE|3-6 Tỷ|Thủ Đức TP. Hồ Chí Minh
+243|Mai Văn Minh|17 Tỷ|0939120351|34m2|2|TRUE|15-20 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+244|Nguyễn Thoa|21 Tỷ|0946630451|37.5m2|2|FALSE|> 20 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+245|Biên|23 Tỷ|0905339349|40m2|5|TRUE|> 20 Tỷ|Bình Thạnh, TP. Hồ Chí Minh
+246|Anh Sơn|10 tỳ|0982966637|45m2|3|FALSE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+247|Nguyễn Văn Thơm|13 Tỷ|0919666997|35m2|4|TRUE|9-15 Tỷ|Phú Nhuận, TP. Hồ Chí Minh
+248|Lê Thành Nhân|8 Tỷ|0973785312|22m2|3|FALSE|6-9 Tỷ|Gò Vấp, TP. Hồ Chí Minh
+249|Hương Ly|8.3 Tỷ|0902 738 066|27m2|1|FALSE|6-9 Tỷ|Thủ Đức TP. Hồ Chí Minh
+250|Vo Ngọc Minh Triết|5.4 Tỷ|0852814915|19.5m2|2|FALSE|3-6 Tỷ|Bình Thạnh, TP. Hồ Chí Minh

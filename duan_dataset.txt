@@ -1,0 +1,141 @@
+STT|Địa chỉ|Diện tích|Tầng|Mặt tiền|Giá chào|Phân khúc|Phụ trách|Liên hệ|Hoa hồng(%)|Nguồn|Trạng thái|Gửi đăng ký|Khu vực|Thao tác
+1|100.109D Thích Quảng Đức|25m| 2|3.5m|4.25 tỷ|3-6 Tỷ|Dương Việt Anh|0327404098|3.0 %|Đầu chủ|Chuẩn|21/10/2023 20:38|Phú Nhuận, Tp. Hồ Chí Minh
+2|100.109H Thích Quảng Đức|25.1m|4|5.8m|5.25 tỷ|3-6 Tỷ|Nguyễn Viết Dũng|0932328885|3.0 %|Đầu chủ|Chuẩn|26/10/2023 18:07|Phú Nhuận, Tp. Hồ Chí Minh
+3|270.4.2 Phan Đình Phùng|17.5m| 4|3m|3.95 tỷ|3-6 Tỷ|Đầu chủ Thái|0938851089|100 triệu|Đầu chủ|Chuẩn|25/04/2023 17:24|Phú Nhuận, Tp. Hồ Chí Minh
+4|211.14 hoàng hoa thám|13.8m|4|5m|3.8 tỷ|3-6 Tỷ|Lê Thành Phi|0973221012|3.0 %|Đầu chủ|Chuẩn|19/08/2023 08:07|Phú Nhuận, Tp. Hồ Chí Minh
+5|94.6F Trần Khắc Chân|19.8m|3|6.5m|3.7 tỷ|3-6 Tỷ|Nguyễn Mạnh Trường|0905418868|3.0 %|Đầu chủ|Chuẩn|14/08/2023 17:12|Phú Nhuận, Tp. Hồ Chí Minh
+6|334.20h Lê Quang Định|69m|3|6.5m|8.6 tỷ|6-9 Tỷ|Nguyễn Triệu Đức Trung|0902893486|300 triệu|Đầu chủ|Chuẩn|20/05/2023 20:49|Bình Thạnh, Tp. Hồ Chí Minh
+7|94 21 Trần Khắc Chân|33.7m|4| 3.5m| 4.5 tỷ|3-6 Tỷ|Nguyễn Viết Quân|0845116146|3.0 %|Đầu chủ|Chuẩn|11/02/2023 11:08|Phú Nhuận, Tp. Hồ Chí Minh
+8|49.19 nguyễn trung trực|33m|4|4m| 5.1 tỷ|3-6 Tỷ|Huỳnh Vũ Nguyễn| 0931577779| 3.0 %|Đầu chủ|Chuẩn|25/03/2023 14:24|Bình Thạnh, Tp. Hồ Chí Minh
+9|124.2 Nguyễn Đình Chiểu|39.1m|3| 3.5m| 5.859 Tỷ|3-6 Tỷ| Nguyễn Thị Kim Thoa| 0931211115| 3.0 %|Đầu chủ|Chuẩn|01/10/2023 20:54|Phú Nhuận, Tp. Hồ Chí Minh
+10|489A.23.67 Huỳnh Văn Bánh|40m|5|4.1m| 8.7 tỷ|6-9 Tỷ|Nguyễn Cao Quyền|0906192686|3.0 %|Hội đồng thẩm định|Chuẩn|27/10/2023 12:50|Phú Nhuận, Tp. Hồ Chí Minh
+11|104.3 Hồ Biểu Chánh|16.5m |3|2.7m|3.1 tỷ|3-6 Tỷ|Nguyễn Viết Dũng|0932328885|100 triệu|Đầu chủ|Chuẩn|30/09/2023 20:08 |Phú Nhuận, Tp. Hồ Chí Minh
+12|48.15.10c Hồ Biểu Chánh|35m|5|5m|7.2 tỷ|6-9 Tỷ|TP Đức|0902946533|3.0 %|Đầu chủ|Chuẩn|25/04/2022 07:43|Phú Nhuận, Tp. Hồ Chí Minh
+13|106 Hồ Biểu Chánh|36m|5|4m|7.4 tỷ|6-9 Tỷ|ĐC Nhật Tuấn|0932624113|3.0 %|Đầu chủ|Chuẩn|02/04/2022 16:26|Phú Nhuận, Tp. Hồ Chí Minh
+14|102.5 Hồ Biểu Chánh|30m|5|3.3m|7.5 tỷ|6-9 Tỷ|Phạm Lê Trà Mi|0902758780 |3.0 %|Đầu chủ|Chuẩn|10/08/2022 19:05|Phú Nhuận, Tp. Hồ Chí Minh
+15|247.10 Hoàng Hoa Thám|90m|1|5.8m |8.5 tỷ|6-9 Tỷ|Nguyễn Lâm Hùng|0989015120|3.0 %|Đầu chủ|Chuẩn|27/06/2023 16:05|Phú Nhuận, Tp. Hồ Chí Minh
+16|53.22 Hoàng Diệu|52m|2|3.3m |6.15 tỷ|6-9 Tỷ|Trần Thị Thanh Thảo|0985137984|3.0 %|Đầu chủ|Chuẩn|02/07/2022 10:42|Phú Nhuận, Tp. Hồ Chí Minh
+17|33.5.3 Đặng Văn Ngữ|58m|2|6.5m|5.8 tỷ|3-6 Tỷ|Hoàng Văn Thịnh|0933172889|3.0 %|Đầu chủ|Tạm dừng bán|14/12/2022 16:58|Phú Nhuận, Tp. Hồ Chí Minh
+18|12.3 Hoàng Diệu|48.7m|5|3.6m|8.3 tỷ|6-9 Tỷ|Nguyễn Hoàng Khánh|0925229079|3.0 %|Đầu chủ|Chuẩn|27/06/2023 10:56|Phú Nhuận, Tp. Hồ Chí Minh
+19|140.6 Đặng Văn Ngữ|52m|2|3m|9.3 tỷ|9-15 Tỷ|Trần Thanh Hải|0909977732|3.0 %|Đầu chủ|Chuẩn|24/05/2023 16:18|Phú Nhuận, Tp. Hồ Chí Minh
+20|4.1 Hoàng Diệu|30m|4|6m |6.75 tỷ|6-9 Tỷ|Nguyễn Viết Quân|0845116146|3.0 %|Đầu chủ|Chuẩn|04/02/2023 02:30|Phú Nhuận, Tp. Hồ Chí Minh
+21|140.31A Nguyễn Đình Chính|58.4m |5|4.2m|8 tỷ|6-9 Tỷ|Đặng Đức Tuân|0904902023|3.0 %|Đầu chủ|Chuẩn|21/06/2022 17:56 |Phú Nhuận, Tp. Hồ Chí Minh
+22|489A.23.67 Huỳnh Văn Bánh|40m|5|4.1m|9.7 tỷ|9-15 Tỷ|Nguyễn Cao Quyền|0969722628|3.0 %|Đối tác|Chim trời cá bể|08/07/2023 13:40 |Phú Nhuận, Tp. Hồ Chí Minh
+23|489.29.10 Huỳnh Văn Bánh|46m|4|3.5m|9.5 tỷ |9-15 Tỷ|Lê Viết Phong|0902353644|3.0 %|Đầu chủ|Chuẩn|03/11/2022 17:24|Phú Nhuận, Tp. Hồ Chí Minh
+24|489.10 Huỳnh Văn Bánh|45m|5|3m|13tỷ|9-15 Tỷ|TP Vĩnh Huy|0768888805|3.0 %|Đầu chủ|Chuẩn|13/10/2021 20:07|Phú Nhuận, Tp. Hồ Chí Minh
+25|39.4.21 Huỳnh Văn Bánh|68m|3|5.2m |8.6 tỷ|6-9 Tỷ|ĐC Thơm|0902858978|3.0 %|Đầu chủ|Chuẩn|28/10/2021 23:10|Phú Nhuận, Tp. Hồ Chí Minh
+26|95.6 Nguyễn văn Trỗi|45m|3|3m|8.6 tỷ|6-9 Tỷ|Lê Vinh Sang|0938221286|3.0 %|Đầu chủ|Chuẩn|20/10/2023 12:25|Phú Nhuận, Tp. Hồ Chí Minh
+27|489A.23.125C Huỳnh Văn Bánh|24m|5|3.4m|5.65 tỷ|3-6 Tỷ|Nguyễn Viết Quân|0845116146|3.0 %|Đầu chủ|Chuẩn|07/08/2023 14:26|Phú Nhuận, Tp. Hồ Chí Minh
+28|56.38.2C Thích Quảng Đức|42m|3|4.2m|6.5 tỷ|6-9 Tỷ|Nguyễn Thị Kim Thoa|0931211115|3.0 %|Đầu chủ|Chuẩn|08/08/2023 18:46|Phú Nhuận, Tp. Hồ Chí Minh
+29|440.39A Nguyễn Kiệm|33m|5|3m|6.99 tỷ|6-9 Tỷ|Trần Thanh Chương|0908760962|3.0 %|Đầu chủ|Chuẩn |12/10/2023 13:22|Phú Nhuận, Tp. Hồ Chí Minh
+30|83 Nguyễn Thượng Hiền|52m|4|9m|5.5 tỷ|3-6 Tỷ|Trần Thị Nghĩa|0936753178|3.0 %|Đầu chủ|Chuẩn |17/06/2022 21:30|Bình Thạnh, Tp. Hồ Chí Minh
+31|280.126.7 Bùi Hữu Nghĩa|47m|2|4m|5 tỷ|3-6 Tỷ| Đặng Đức Tuân|0904902023|3.0 %|Đầu chủ|Chuẩn|16/07/2022 16:19|Bình Thạnh, Tp. Hồ Chí Minh
+32|49.30.4 Nguyễn Văn Đậu|38m|2|6.5m|5.9 tỷ|3-6 Tỷ|Nguyễn Trung Hiếu|0931139199|3.0 %| Đầu chủ| Chuẩn| 25/09/2022 18:57|Bình Thạnh, Tp. Hồ Chí Minh
+33|353.2A Lê Quang Định|26m|2|2.8m|4.279 tỷ|3-6 Tỷ|Nguyễn Viết Dũng|0932328885|100 triệu|Đầu chủ|Chuẩn|08/10/2022 23:14|Bình Thạnh, Tp. Hồ Chí Minh
+34|484.1A Lê Quang Định|36.4m|5|4.8m|7.2 tỷ|6-9 Tỷ|Nguyễn Thị Kim Thoa|0931211115|3.0 %|Đầu chủ|Chuẩn|05/01/2023 20:47|Bình Thạnh, Tp. Hồ Chí Minh
+35|602.37.18 Điện Biên Phủ|36m|3|4m|5.1 tỷ|3-6 Tỷ| Trần Chương|0908760962|3.0 %| Đầu chủ|Chuẩn|30/03/2023 10:17|Bình Thạnh, Tp. Hồ Chí Minh
+36|101.84 Nguyễn Văn Đậu|44m|2|3.8m|7.15 tỷ|6-9 Tỷ|Anh Tuấn Phòng Hoàng Hà|0898615855|220 triệu|Đầu chủ|Chuẩn|07/08/2023 13:45|Bình Thạnh, Tp. Hồ Chí Minh
+37|2.37 Tăng Bạt Hổ|45m|2|3.5m|4.5 tỷ|3-6 Tỷ|Lê Vinh Sang|0938221286|130 triệu|Đầu chủ|Chuẩn|17/09/2023 09:30|Bình Thạnh, Tp. Hồ Chí Minh
+38|482.98A Lê Quang Định|40m|4|3.3m|6.15 tỷ|6-9 Tỷ|Trần Thị Kim Duyên| 0888097678|2.0 %|Đầu chủ|Chuẩn|22/09/2023 13:55|Bình Thạnh, Tp. Hồ Chí Minh
+39|62.7.23 trần Bình Trọng|59m|4|7m|6.5 tỷ|6-9 Tỷ|Đinh Thị Ánh Tuyết| 0795641489|3.0 %|Đầu chủ|Chuẩn|02/10/2023 19:39|Bình Thạnh, Tp. Hồ Chí Minh
+40|220.9A Hoàng Hoa Thám|94m|2|3.5m|6.8 tỷ|6-9 Tỷ|Diệp Duy Thắng|0907673831|3.0 %|Đầu chủ|Chuẩn|05/10/2023 19:55|Bình Thạnh, Tp. Hồ Chí Minh
+41|146/22 Vũ Tùng Vũ Tùng|44.2m|2|3m|6.2 tỷ|6-9 Tỷ|Vũ Hoàng Giang|0933665468|3.0 %|Đầu chủ|Chuẩn|06/10/2023 15:09|Bình Thạnh, Tp. Hồ Chí Minh
+42|381.18 Phan Văn Trị|35.6m|2|3.1m|4.2 tỷ|3-6 Tỷ|Lê Minh Quân|0377603244|3.0 %|Đầu chủ|Chuẩn|07/10/2023 13:27|Bình Thạnh, Tp. Hồ Chí Minh
+43|5.18 Nơ Trang Long|36.5m|3|3.5m|6.7 tỷ|6-9 Tỷ|Nguyễn Thị Kim Thoa|0931211115|3.0 %|Đầu chủ|Chuẩn|18/10/2023 08:29|Bình Thạnh, Tp. Hồ Chí Minh
+44|312.8 Nguyễn Văn Đậu|75.8m| 2| 3.1m|6.5 tỷ|6-9 Tỷ|Ngô Minh Hoàng|0909381222|3.0 %|Hội đồng thẩm định|Chuẩn|18/10/2023 22:14|Bình Thạnh, Tp. Hồ Chí Minh
+45|356.1 Xô Viết Nghệ Tĩnh|27m|5|7m|6.5 tỷ|6-9 Tỷ|Phan Hương|0934632268|3.0 %|Đầu chủ|Chuẩn|19/10/2023 18:30|Bình Thạnh, Tp. Hồ Chí Minh
+46|765.71.10 Xô Viết Nghệ Tĩnh|42/53m| 5| 10m| 5.95 tỷ|3-6 Tỷ|Nguyễn Văn Thư|0852349324|3.0 %|Hội đồng thẩm định|Chuẩn|19/10/2023 19:24|Bình Thạnh, Tp. Hồ Chí Minh
+47|214 nguyễn văn đậu|156m|3| 4.2m| 40 tỷ|30-50 Tỷ|Lê Thị Kim Uyên|0902842527|3.0 %|Đối tác|Chuẩn|04/10/2022 21:30|Bình Thạnh, Tp. Hồ Chí Minh
+48|274.3 Nguyễn Văn Đậu|114m|5|4.2m|14.5 tỷ|9-15 Tỷ|ĐC Dũng Võ - Phòng Thiên Phát|0907191079|500 triệu|Đầu chủ|Chuẩn|05/08/2021 23:36|Bình Thạnh, Tp. Hồ Chí Minh
+49|108 Nguyễn Văn Đậu|90m|3|4m|18.6 tỷ|15-20 Tỷ|Phạm Minh Bằng|0816812346|3.0 %|Đối tác|Chuẩn|02/03/2023 13:03|Bình Thạnh, Tp. Hồ Chí Minh
+50|250 Nguyễn Văn Đậu|68.8m|7|4m|18 tỷ|15-20 Tỷ|Nguyễn Thị Kim Thoa|0931211115|3.0 %|Đầu chủ|Chuẩn|16/09/2023 18:18|Bình Thạnh, Tp. Hồ Chí Minh
+51|76A Trần Khắc Chân|24m|4|3.5m|5.4 tỷ|3-6 Tỷ|Phạm Lê Trà Mi|0902758780|3.0 %|Đầu chủ|Chuẩn|31/07/2023 17:45|Phú Nhuận, Tp. Hồ Chí Minh
+52|231 Nguyễn Đình Chính|54m|6|4m|20 tỷ|15-20 Tỷ|Trần Thanh Chương|0908760962|3.0 %|Đầu chủ|Chuẩn|19/09/2023 12:20|Phú Nhuận, Tp. Hồ Chí Minh
+53|53A Phan Đăng Lưu|58m|6|5.5m|19.1 tỷ|15-20 Tỷ|Đỗ Tấn Định|0906821507|3.0 %|Đầu chủ|Chuẩn|26/09/2023 16:54|Phú Nhuận, Tp. Hồ Chí Minh
+54|69.4B Trần Kế Xương|29m|5|4m |7.8 tỷ|6-9 Tỷ|Hoàng Viết Cường Tứ|0981796969|3.0 %|Đầu chủ|Chuẩn|09/05/2023 15:50|Phú Nhuận, Tp. Hồ Chí Minh
+55|30.28.18 Phùng Văn Cung|31m|5|3.4m|7.6 tỷ|6-9 Tỷ|Nguyễn Trung Hiếu|0931139199|3.0 %|Đầu chủ|Chuẩn|24/05/2023 18:59|Phú Nhuận, Tp. Hồ Chí Minh
+56|12.12B (Số cũ 12.11) Hoàng Diệu|36.7m|2|3m|3.2 tỷ|3-6 Tỷ|Nguyễn Nhật Tuấn|0932624113|100 triệu|Đầu chủ|Chuẩn|09/06/2023 20:22|Phú Nhuận, Tp. Hồ Chí Minh
+57|55 Đỗ Tấn Phong|37m|4|3.9m|7.65 tỷ|6-9 Tỷ|ĐC Hiếu - phòng Đại Nam|0907892796|3.0 %|Đầu chủ|Chuẩn|20/06/2023 14:10|Phú Nhuận, Tp. Hồ Chí Minh
+58|489.29.11 Huỳnh Văn Bánh|55m|1|3.5m|7.5 tỷ|6-9 Tỷ|Phạm Lê Trà Mi|0902758780|3.0 %|Đối tác|Chuẩn|07/08/2023 14:59|Phú Nhuận, Tp. Hồ Chí Minh
+59|35.19 Trần Kế Xương|87m|2|3m|7.5 tỷ|6-9 Tỷ|Hoàng Viết Cường Tứ |0981796969 |3.0 % |Đầu chủ|Chuẩn|14/08/2023 18:18|Phú Nhuận, Tp. Hồ Chí Minh
+60|91 trần kế xương|44m|2|3.2m|7.6 tỷ|6-9 Tỷ|Lê Vinh Sang|0938221286|3.0 %|Đầu chủ |Chuẩn|18/09/2023 20:27|Phú Nhuận, Tp. Hồ Chí Minh
+61|182.12A Nguyễn Thượng Hiền|22.5m|3|3.5m|4.8 tỷ|3-6 Tỷ|Lê Vinh Sang|0938221286|3.0 %|Đầu chủ|Chuẩn|27/09/2023 14:07|Phú Nhuận, Tp. Hồ Chí Minh
+62|86.35.15 Thích Quảng Đức|40m|4|4m|5.6 tỷ |3-6 Tỷ|Đặng Đình Trung Hiếu|0985884878|200 triệu|Đầu chủ|Chuẩn|28/09/2023 11:07|Phú Nhuận, Tp. Hồ Chí Minh
+63|270.40B Phan Đình Phùng|17.5m|5|3m|4.6 tỷ|3-6 Tỷ|Nguyễn Thị Kim Thoa|0931211115|100 triệu|Đầu chủ|Chuẩn|08/10/2023 20:09|Phú Nhuận, Tp. Hồ Chí Minh
+64|75.5G nguyễn đình chiểu|37m|1|4m|5.2 tỷ|3-6 Tỷ|Nguyễn Trường Sơn|0987701231|3.0 %|Đầu chủ|Chuẩn|10/10/2023 09:37|Phú Nhuận, Tp. Hồ Chí Minh
+65|469.72 Nguyễn Kiệm|58.8m|2|4.5m|6 tỷ|3-6 Tỷ|Trần Thế Vinh|0938121937|3.0 %|Đầu chủ|Chuẩn|10/10/2023 11:42|Phú Nhuận, Tp. Hồ Chí Minh
+66|142E.44 Cô Giang|23m |3|3m|3 tỷ|< 3 Tỷ|Đặng Đình Trung Hiếu|0985884878|100 triệu|Đầu chủ|Chuẩn|11/10/2023 10:55|Phú Nhuận, Tp. Hồ Chí Minh
+67|211.81 Hoàng Hoa Thám|27.2m|4|5.8m|7.2 tỷ|6-9 Tỷ|Nguyễn Thành Luân|0867789167|230 triệu|Đầu chủ|Chuẩn|17/10/2023 13:42|Phú Nhuận, Tp. Hồ Chí Minh
+68|99.2A3 Nguyễn Thượng Hiền|37m|5|4.2m|7.4 tỷ|6-9 Tỷ|Nguyễn Hoàng Khánh|0925229079|3.0 %|Đầu chủ|Chuẩn|10/09/2023 22:34|Bình Thạnh, Tp. Hồ Chí Minh
+69|74.14 võ duy ninh|32m|3|3.4m|6.3 tỷ|6-9 Tỷ|Lâm Hoàng Anh Vũ |0349490460|3.0 %|Đầu chủ|Chuẩn|26/09/2023 09:29|Bình Thạnh, Tp. Hồ Chí Minh
+70|22.96A Huỳnh Đình Hai|32m|4|3m|4.3 tỷ|3-6 Tỷ|Nguyễn Ngọc Tấn Khoa|0908125214|3.0 %|Hội đồng thẩm định|Chuẩn|01/08/2023 12:50 |Bình Thạnh, Tp. Hồ Chí Minh
+71|125.221 Lê Văn Duyệt|42m|4|3.1m|6.5 tỷ|6-9 Tỷ|Phạm Thanh Chương|0901500550|3.0 %|Đầu chủ|Chuẩn|09/07/2023 17:43|Bình Thạnh, Tp. Hồ Chí Minh
+72|38.60 Nguyễn Thiện Thuật|33m|3|3.5m|4.7 tỷ|3-6 Tỷ|Nguyễn Triệu Đức Trung|0902893486|150 triệu|Đầu chủ|Chuẩn |19/07/2023 12:19 |Bình Thạnh, Tp. Hồ Chí Minh
+73|5.102A Nơ Trang Long|41m|4|6.6m|6.8 tỷ|6-9 Tỷ|Nguyễn Văn Thư|0852349324|3.0 %|Đầu chủ|Chuẩn|10/08/2023 17:07|Bình Thạnh, Tp. Hồ Chí Minh
+74|207.52.86 Nguyễn Văn Đậu|22.4m|2|3.7m|4.1 tỷ|3-6 Tỷ|Nguyễn Thị Kim Thoa|0931211115|3.0 %|Đầu chủ|Chuẩn|25/08/2023 23:38|Bình Thạnh, Tp. Hồ Chí Minh
+75|37/24 Ngô Tất Tố Ngô Tất Tố|42.2m |2|3.7m|6.5 tỷ|6-9 Tỷ|Vũ Hoàng Giang|0933665468|3.0 %|Đầu chủ|Chuẩn|27/09/2023 12:34|Bình Thạnh, Tp. Hồ Chí Minh
+76|294.2G Xô Viết Nghệ Tĩnh|47m|2|4m|4.5 tỷ|3-6 Tỷ|Đặng Đình Trung Hiếu|0985884878|3.0 %|Đầu chủ|Chuẩn|17/10/2023 11:33|Bình Thạnh, Tp. Hồ Chí Minh
+77|217.35.4.8 Nơ Trang Long|43.2/52m|2|8m|5.2 tỷ|3-6 Tỷ|Hồ Thị Huỳnh Giao|0909400470|3.0 %|Đầu chủ|Chuẩn|20/10/2023 17:56|Bình Thạnh, Tp. Hồ Chí Minh
+78|268.2 nguyễn văn đậu|38.2m|5|3.5m|6.8 tỷ|6-9 Tỷ|Lê Thành Phi|0973221018 |3.0 %|Đầu chủ|Chuẩn|24/10/2023 10:28|Bình Thạnh, Tp. Hồ Chí Minh
+77|90.83 Vũ Tùng|38.1m|2|3.7m|4.8 tỷ|3-6 Tỷ|Nguyễn Thị Kim Thoa|0931211115|3.0 %|Đầu chủ|Chuẩn|25/10/2023 13:51|Bình Thạnh, Tp. Hồ Chí Minh
+80|482.52C Lê Quang Định|44.5/43.5m|5|7.5m|5.6 tỷ|3-6 Tỷ|Đặng Đình Trung Hiếu|0985884878|200 triệu|Đầu chủ|Chuẩn|27/10/2023 15:43 |Bình Thạnh, Tp. Hồ Chí Minh
+81|385.46.2B Quang Trung|63.8/64m|1|5m|4.3 tỷ|3-6 Tỷ|Nguyễn Văn Phước|0938047586|3.0 %|Đầu chủ|Chuẩn|13/11/2023 17:08|Gò Vấp, Tp. Hồ Chí Minh
+82|12 Bình Lợi|70m|2|4.5m|12 tỷ|9-15 Tỷ|Nguyễn Trung Hiếu|0931139199|2.0 %|Đầu chủ|Chuẩn|13/11/2023 16:43|Bình Thạnh, Tp. Hồ Chí Minh
+83|439.46.21 nguyễn văn khối|33.5m|2|3.5m|4.6 tỷ|3-6 Tỷ|Lê Thị Kim Uyên|0902842527|3.0 %|Đầu chủ|Chuẩn|13/11/2023 15:15|Gò Vấp, Tp. Hồ Chí Minh
+84|837.3F Quang Trung|44.6m|5|4.7m|7.1 tỷ|6-9 Tỷ|Lê Viết Phong|0902353644|3.0 %|Hội đồng thẩm định|Chuẩn|13/11/2023 14:52|Gò Vấp, Tp. Hồ Chí Minh
+85|197.16 Nguyễn Phúc Chu|60m|2|4m|3.65 tỷ|3-6 Tỷ|Trần Thị Kim Duyên|0888097678|3.0 %|Đầu chủ|Chuẩn|13/11/2023 14:37|Tân Bình, Tp. Hồ Chí Minh
+86|1175 Lê Đức Thọ| 91.3m|1|4.2m|11.5 tỷ|9-15 Tỷ| Lê Văn Đáp|0902294507|3.0 %|Đầu chủ|Chuẩn|13/11/2023 13:45|Gò Vấp, Tp. Hồ Chí Minh
+87| 163.10.13 Phạm văn Bạch|554m|2|3.7m|4.1 tỷ|3-6 Tỷ|Trịnh Thanh Hoan|0963791279|100 triệu|Đầu chủ|Chuẩn|13/11/2023 13:34|Tân Bình, Tp. Hồ Chí Minh
+88|123 Đặng Thuỳ Trâm| 110m|1|5m|22.5 tỷ|20-30 Tỷ|Trần Việt Đức|0903381383|3.0 %|Đối tác|Chuẩn|13/11/2023 13:34|Bình Thạnh, Tp. Hồ Chí Minh
+89|594.47.8 Âu Cơ| 30m|5|3.7m|3.75 tỷ|3-6 Tỷ|Lê Văn Đáp|0902294507| 3.0 %| Đầu chủ|Chuẩn|13/11/2023 12:36|Tân Bình, Tp. Hồ Chí Minh
+90|113.103.8 Võ Duy Ninh|31/52m|2|11m|2.8 tỷ|< 3 Tỷ|Trần Thanh Chương|0908760962|100 triệu|Đầu chủ|Chuẩn|13/11/2023 11:57|Bình Thạnh, Tp. Hồ Chí Minh
+91|897-899 ( số cũ 196A lũy bán bích phường 17 quận tân bình) Lũy Bán Bích|152.8m|5|8.4m|45 tỷ|30-50 Tỷ|Nguyễn Trung Hiếu|0903158349|3.0 %|Đối tác|Chuẩn|13/11/2023 11:54|Tân Phú, Tp. Hồ Chí Minh
+92|89.6 Nguyễn Hồng Đào|33m|5|4.2m|8.9 tỷ|6-9 Tỷ|Nguyễn Thị Lệ Thương|0932628559|3.0 %|Đầu chủ|Chuẩn|13/11/2023 10:27|Tân Bình, Tp. Hồ Chí Minh
+93|336.4 Phan Văn Trị|26m|5|3.5m|4.65 tỷ|3-6 Tỷ|Đặng Đình Trung Hiếu|0985884878|3.0 %|Đầu chủ|Chuẩn|13/11/2023 08:36|Bình Thạnh, Tp. Hồ Chí Minh
+94|161.3 Đường Số 4|73m|4|4m|9 tỷ|6-9 Tỷ|Trần Tuấn Anh|0985236723|3.0 %|Đầu chủ|Chuẩn|13/11/2023 00:20|Gò Vấp, Tp. Hồ Chí Minh
+95|763.7 Thống Nhất|60m|2|3.8m|7 tỷ|6-9 Tỷ|Phan Xuân An|0905849866|3.0 %|Đầu chủ|Chuẩn|12/11/2023 21:25|Gò Vấp, Tp. Hồ Chí Minh
+96|579.21 quang trung|69m|2|8m|6.5 tỷ|6-9 Tỷ|Nguyễn Triệu Đức Trung|0902893486|3.0 %|Đầu chủ|Chuẩn|12/11/2023 21:05|Gò Vấp, Tp. Hồ Chí Minh
+97|342 Lê Văn Việt| 110/150m|1|4.9m|32 tỷ|30-50 Tỷ|Phạm Thanh Chương|0901500550|3.0 %|Đối tác|Chuẩn|12/11/2023 19:51|Quận 9, Tp. Hồ Chí Minh
+98|818.23.51 Xô Viết Nghệ Tĩnh|54.3/69m|1|7.2m|6.5 tỷ|6-9 Tỷ|Lương Thanh Hải|0967687888|3.0 %|Đầu chủ|Chuẩn|12/11/2023 18:59|Bình Thạnh, Tp. Hồ Chí Minh
+99|9.29A Chử Đồng Tử|21.3/16.2m|2|3m|3.5 tỷ|3-6 Tỷ|Phạm Mạnh Hợp|0768688865|100 triệu|Đầu chủ|Chuẩn|12/11/2023 18:46|Tân Bình, Tp. Hồ Chí Minh
+100|22 Hoa Lan| 64m|5|4m|23 tỷ|20-30 Tỷ|Trần Việt Đức|0903381383|3.0 %|Đối tác|Chuẩn|12/11/2023 16:49|Phú Nhuận, Tp. Hồ Chí Minh
+101|583.30.10 Lê Đức Thọ|42.8m|2|5.5m|4.6 tỷ|3-6 Tỷ|Nguyễn Tấn Phùng|0902729090|3.0 %|Hội đồng thẩm định|Chuẩn|14/11/2023 22:00|Gò Vấp, Tp. Hồ Chí Minh
+102|90.2 - 90.2A Nguyễn Phúc Chu|326.4m |1|13.1m|42 tỷ|30-50 Tỷ|Hoàng Mạnh Quân|0901804444|3.0 %|Đối tác|Chuẩn|14/11/2023 21:00|Tân Bình, Tp. Hồ Chí Minh
+103|295.32 Lê Quang Định|21m|4|3.5m |3.7 tỷ|3-6 Tỷ|Bùi Đức Bình|0907324228|100 triệu|Đầu chủ|Chuẩn|14/11/2023 20:46|Bình Thạnh, Tp. Hồ Chí Minh
+104|152.22 Huỳnh Văn Nghệ|72m|4|4.8m|7.7 tỷ|6-9 Tỷ|LỤC VĂN ANH|0947143223|3.0 %|Đầu chủ|Chuẩn|14/11/2023 20:30 |Tân Bình, Tp. Hồ Chí Minh
+105|972.32 Quang Trung|17m|2|2.5m|2.28 tỷ|< 3 Tỷ|Trần Thị Thanh Thảo|0762120891|100 triệu|Đầu chủ|Chuẩn|14/11/2023 20:28|Gò Vấp, Tp. Hồ Chí Minh
+106|41.26 Lê Lợi|47.8m|2|2.8m |3.9 tỷ|3-6 Tỷ|Nguyễn Tấn Phùng|0902729090|3.0 %|Hội đồng thẩm định|Chuẩn|14/11/2023 19:05 |Gò Vấp, Tp. Hồ Chí Minh
+107|95.284 Đinh Tiên Hoàng|19.5/20m|2|2.5m|2.8 tỷ|< 3 Tỷ|Võ Thị Phương Thảo|0917015379|100 triệu|Đầu chủ|Chuẩn|14/11/2023 19:00|Bình Thạnh, Tp. Hồ Chí Minh
+108|108.26 Trần Mai Ninh|73/72m|2|4m |10.5 tỷ|9-15 Tỷ|Hoàng Viết Cường Tứ|0981796969|3.0 %|Đầu chủ|Chuẩn|14/11/2023 18:54|Tân Bình, Tp. Hồ Chí Minh
+109|101.1B Điện Biên Phủ|193m|3|8m|28 tỷ|20-30 Tỷ|Nguyễn Văn Chuyền|0325319777|3.0 %|Đầu chủ|Chuẩn|14/11/2023 18:30|Bình Thạnh, Tp. Hồ Chí Minh
+110|108.26 Trần Mai Ninh|72m|2|4m|10.5 tỷ|9-15 Tỷ|Phạm Lê Trà Mi |0902758780|3.0 % |Đầu chủ|Chim trời cá bể|14/11/2023 17:43|Tân Bình, Tp. Hồ Chí Minh
+111|325 (số cũ 299C) Phan Huy Ích|255m|2|7.8m|24 tỷ|20-30 Tỷ|Nguyễn Tuấn Kiệt|0392204156|3.0 %|Đối tác|Chuẩn|14/11/2023 17:42|Gò Vấp, Tp. Hồ Chí Minh
+112|334.44 nguyễn văn nghi|74.1m|2|4.2m|6.6 tỷ|6-9 Tỷ|Lê Thành Phi|0973221018|3.0 %|Hội đồng thẩm định|Chuẩn|14/11/2023 16:23|Gò Vấp, Tp. Hồ Chí Minh
+113|296.26.24 Nguyễn Văn Lượng|40m|3|4.1m|4.53 tỷ|3-6 Tỷ|Trần Thị Thanh Thảo|0762120891|3.0 %|Đầu chủ|Chuẩn|14/11/2023 15:57|Gò Vấp, Tp. Hồ Chí Minh
+114|113.47.11 Võ Duy Ninh|35.3m|3|3.8m|4.3 tỷ|3-6 Tỷ|Nguyễn Hoàng Khánh|0925229079|3.0 %|Hội đồng thẩm định|Chuẩn|14/11/2023 15:24|Bình Thạnh, Tp. Hồ Chí Minh
+115|956.6.10 âu cơ|73m|2|4m|5.8 tỷ|3-6 Tỷ|Nguyễn Triệu Đức Trung|0902893486|3.0 %|Chính chủ AI|Chuẩn|14/11/2023 15:11|Tân Bình, Tp. Hồ Chí Minh
+116|293 Trần Xuân Soạn|93/123m|2|3.7m|20 tỷ|15-20 Tỷ|Bùi Văn Minh|0962988143|3.0 %|Hội đồng thẩm định|Chuẩn|14/11/2023 15:07|Quận 7, Tp.Hồ Chí Minh
+117|617.9B Nguyễn Kiệm|75m|4|4m|11.9 tỷ|9-15 Tỷ|Nguyễn Thị Kiều Oanh|0969384987|3.0 %|Đầu chủ|Chuẩn|14/11/2023 14:29|Phú Nhuận, Tp. Hồ Chí Minh
+118|350.54.45A lê đức thọ|346/97m|1|5m|12.5 tỷ|9-15 Tỷ|Lê Vinh Sang|0938221286|3.0 %|Đầu chủ|Chuẩn|14/11/2023 14:04|Gò Vấp, Tp. Hồ Chí Minh
+119|594.47.7 Âu Cơ|26m|3|3.4m|3.5 tỷ|3-6 Tỷ|Nguyễn Trung Hiếu|0903158349|100 triệu|Hội đồng thẩm định|Chuẩn|14/11/2023 13:52|Tân Bình, Tp. Hồ Chí Minh
+120|203.6.7 Huỳnh Văn Nghệ|80m|3|5m|7.9 tỷ|6-9 Tỷ|Võ Thị Phương Thảo|0917015379|3.0 %|Đầu chủ|Chuẩn|14/11/2023 13:25|Gò Vấp, Tp. Hồ Chí Minh
+121|362.67A Phan Huy Ích|166.8/225m|8|11.8m|26.5 tỷ|20-30 Tỷ|Trần Kim Long|0936293818|3.0 %|Đầu chủ|Chim trời cá bể|14/11/2023 11:52|Gò Vấp, Tp. Hồ Chí Minh
+122|148 Đường Số 9|67m|3|4.2m|6.2 tỷ|6-9 Tỷ|Đặng Đức Tuân|0904902023|3.0 %|Đầu chủ|Chuẩn|14/11/2023 11:42|Gò Vấp, Tp. Hồ Chí Minh
+123|362.67A Phan Huy Ích|166.8/210m|8|11.8m|26.5 tỷ|20-30 Tỷ|Trần Kim Long|0936293818|3.0 %|Đầu chủ|Chim trời cá bể|14/11/2023 11:25|Gò Vấp, Tp. Hồ Chí Minh
+124|31 Nguyễn Thị Nhung|112m|7|5m|25.5 tỷ|20-30 Tỷ|Nguyễn Hồng Sơn|0917855892| 3.0 %|Đối tác|Chuẩn|14/11/2023 11:16|Thủ Đức, Tp. Hồ Chí Minh
+125|191. A11 Cống Quỳnh|75.5/388.3m|5|3.5m|24 tỷ|20-30 Tỷ|Nguyễn Thị Đào|0974801129|3.0 %|Đối tác|Chuẩn|14/11/2023 11:04|Quận 1, Tp. Hồ Chí Minh
+126|146.37.15A Vũ Tùng|43.3m|4|2.5m|6.8 tỷ|6-9 Tỷ|Hồ Thị Huỳnh Giao|0909400470|3.0 %|Đầu chủ|Chuẩn|14/11/2023 10:58|Bình Thạnh, Tp. Hồ Chí Minh
+127|853.7 Quang Trung|43m|4|4m|4.4 tỷ|3-6 Tỷ|Trần Thanh Hải|0909977732|3.0 %|Đầu chủ|Chuẩn|14/11/2023 10:53|Gò Vấp, Tp. Hồ Chí Minh
+128|593D Nguyễn Kiệm|71.1m|3|4m|9 tỷ|6-9 Tỷ|Hoàng Văn Thịnh|0933172889|300 triệu|Đầu chủ|Chuẩn|14/11/2023 10:05|Phú Nhuận, Tp. Hồ Chí Minh
+129|14.19 Phan Bội Châu|28m|3|3.5m|4.1 tỷ|3-6 Tỷ|Nguyễn Trung Hiếu|0931139199|3.0 %|Đầu chủ|Chuẩn|14/11/2023 09:40|Bình Thạnh, Tp. Hồ Chí Minh
+130|416.22 Âu Cơ| 55m|2|4.1m|6.5 tỷ|6-9 Tỷ|Vũ Hoàng Anh|0867177475|3.0 %|Đầu chủ|Chuẩn|14/11/2023 09:33|Tân Bình, Tp. Hồ Chí Minh
+131|22.34.20 Đường Số 21|56m|3|3.5m|6.2 tỷ|6-9 Tỷ|Hoàng Đình Chương|0909387901|3.0 %|Đầu chủ|Chuẩn|14/11/2023 09:26|Gò Vấp, Tp. Hồ Chí Minh
+132|722 An Dương Vương|135/153m|3| 9m|29 tỷ|20-30 Tỷ|Nguyễn Thị Đào|0974801129|3.0 %|Đối tác|Chuẩn|13/11/2023 21:03|Quận 6, Tp. Hồ Chí Minh
+133|720 An Dương Vương| 135/153m|3|9m|29 tỷ|20-30 Tỷ|Nguyễn Thị Đào|0974801129|3.0 %|Đối tác|Chuẩn|13/11/2023 20:53|Quận 6, Tp. Hồ Chí Minh
+134|965.16.151 Quang Trung|21m|1|4m|4.15 tỷ|3-6 Tỷ|Dương Việt Anh|0327404098|3.0 %|Đầu chủ|Chuẩn|13/11/2023 20:19|Gò Vấp, Tp. Hồ Chí Minh
+135|166 Phan Đăng Lưu|47/54m|5|3m|18 tỷ|15-20 Tỷ|Lê Viết Phong|0902353644|3.0 %|Hội đồng thẩm định|Chuẩn|13/11/2023 19:53|Phú Nhuận, Tp. Hồ Chí Minh
+136|79.12.21 đường số 2|42/32m|1|3.2m|3.1 tỷ|3-6 Tỷ|Lê Vinh Sang|0938221286|3.0 %|Đầu chủ|Chuẩn|13/11/2023 19:47|Gò Vấp, Tp. Hồ Chí Minh
+137|86.24C1 Thích Quảng Đức|63.1/6m|2|8m|4.5 tỷ|3-6 Tỷ|Đặng Đình Trung Hiếu|0985884878|3.0 %|Đầu chủ|Chuẩn|13/11/2023 18:18|Phú Nhuận, Tp. Hồ Chí Minh
+138|45.12.14 Đường Số 14|38m|5|3.5m|4.95 tỷ|3-6 Tỷ|Đặng Đức Tuân|0904902023|3.0 %|Đầu chủ|Chim trời cá bể|13/11/2023 18:12|Gò Vấp, Tp. Hồ Chí Minh
+139|184.30B Nguyễn Xí|18m|2|3.5m|990 triệu|< 3 Tỷ|Nguyễn Trung Hiếu|0903158349|100 triệu|Đầu chủ|Chuẩn|13/11/2023 17:32|Bình Thạnh, Tp. Hồ Chí Minh
+140|78.21.1A Đường Số 51|16.3m|3|3.4m|4.2 tỷ|3-6 Tỷ|Phan Hương|0934632268|100 triệu|Đầu chủ|Chuẩn|13/11/2023 17:10|Gò Vấp, Tp. Hồ Chí Minh
